@@ -1,2 +1,4 @@
 backend/firebase-private-key.json
 myev1/
+backend/.env
+firebase-private-key.json
